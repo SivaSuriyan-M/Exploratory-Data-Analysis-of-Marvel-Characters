@@ -150,10 +150,7 @@ st.pyplot(plt)
 ### **6. Conclusion:**
 
 This analysis and interactive dashboard provide insights into the Marvel Universe, such as:
-- **Character Popularity**: The most popular characters by appear![output2](https://github.com/user-attachments/assets/93bf78ba-399e-4911-a1b3-94db7831672d)
-![output](https://github.com/user-attachments/assets/1bfcba8e-b9cd-4b34-a1ff-c335c2044d19)
-![output](https://github.com/user-attachments/assets/3179ca16-9bbd-4106-a1be-53bbe6dff3cc)
-ances.
+- **Character Popularity**: The most popular characters by appearances.
 - **Gender Representation**: How gender representation has changed over the decades.
 - **Character Survival**: How alignment correlates with survival.
 - **Debut Trends**: The introduction of characters across time.
@@ -167,7 +164,16 @@ ances.
 - **More Visualizations**: Include advanced visualizations like violin plots, correlation heatmaps, and network graphs to show character relationships.
   
 --- 
+This documentation provides an overview of the Marvel character dataset analysis, detailing the preprocessing steps, visualizations, and insights gained through the interactive dashboard.
+
+---
+
 ### **Visual Representation:**
 
+![output](https://github.com/user-attachments/assets/29a42ab8-da2b-4bbc-a24b-ca044ef8e61e)
+![output2](https://github.com/user-attachments/assets/e113b67b-b282-49f1-a95c-327eec405792)
+![output3](https://github.com/user-attachments/assets/d5276c70-a24a-4a12-8eda-9e50fe703a62)
+![output5](https://github.com/user-attachments/assets/00acdcfa-3329-456e-96c5-e1033ff9ec31)
+![output8](https://github.com/user-attachments/assets/7fbe8576-b78b-4d4a-ac5f-e16079cbe7f8)
+![output12](https://github.com/user-attachments/assets/ecf282bf-9131-47e5-90c6-ab2ca964f58c)
 
-This documentation provides an overview of the Marvel character dataset analysis, detailing the preprocessing steps, visualizations, and insights gained through the interactive dashboard.
