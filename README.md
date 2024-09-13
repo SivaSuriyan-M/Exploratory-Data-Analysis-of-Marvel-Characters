@@ -1,4 +1,4 @@
-### **Documentation for Marvel Character Dataset Exploratory Data Analysis (EDA)**
+### **Documentation for Marvel Character Exploratory Data Analysis (EDA)**
 
 ---
 
@@ -150,12 +150,13 @@ st.pyplot(plt)
 ### **6. Conclusion:**
 
 This analysis and interactive dashboard provide insights into the Marvel Universe, such as:
-- **Character Popularity**: The most popular characters by appearances.
+- **Character Popularity**: The most popular characters by appear![output2](https://github.com/user-attachments/assets/93bf78ba-399e-4911-a1b3-94db7831672d)
+![output](https://github.com/user-attachments/assets/1bfcba8e-b9cd-4b34-a1ff-c335c2044d19)
+![output](https://github.com/user-attachments/assets/3179ca16-9bbd-4106-a1be-53bbe6dff3cc)
+ances.
 - **Gender Representation**: How gender representation has changed over the decades.
 - **Character Survival**: How alignment correlates with survival.
 - **Debut Trends**: The introduction of characters across time.
-
-With the **Streamlit dashboard**, users can dynamically explore various aspects of the data, providing flexibility in analyzing the dataset based on specific filters and criteria.
 
 ---
 
@@ -166,5 +167,7 @@ With the **Streamlit dashboard**, users can dynamically explore various aspects 
 - **More Visualizations**: Include advanced visualizations like violin plots, correlation heatmaps, and network graphs to show character relationships.
   
 --- 
+### **Visual Representation:**
+
 
 This documentation provides an overview of the Marvel character dataset analysis, detailing the preprocessing steps, visualizations, and insights gained through the interactive dashboard.
