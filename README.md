@@ -171,7 +171,7 @@ This documentation provides an overview of the Marvel character dataset analysis
 ### **Visual Representation:**
 
 
-![output](https://github.com/user-attachments/assets/29a42ab8-da2b-4bbc-a24b-ca044ef8e61e)
+![output](https://github.com/user-attachments/assets/29a42ab8-da2b-4bbc-a24b-ca044ef8e61e)(#)
 ![output2](https://github.com/user-attachments/assets/e113b67b-b282-49f1-a95c-327eec405792)
 ![output3](https://github.com/user-attachments/assets/d5276c70-a24a-4a12-8eda-9e50fe703a62)
 ![output5](https://github.com/user-attachments/assets/00acdcfa-3329-456e-96c5-e1033ff9ec31)
